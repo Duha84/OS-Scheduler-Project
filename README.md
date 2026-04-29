@@ -32,8 +32,7 @@ os-scheduler-project/
 │
 ├── main.py
 ├── TestCases.txt
-├── README.md
-
+└── README.md
 
 ---
 
