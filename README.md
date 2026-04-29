@@ -28,12 +28,13 @@ The scheduler uses a combination of **priority scheduling** and **Round Robin (t
 ---
 
 ## Project Structure
+```
 os-scheduler-project/
 │
 ├── main.py
 ├── TestCases.txt
 └── README.md
-
+```
 ---
 
 ## How to Run
@@ -68,11 +69,11 @@ PID ArrivalTime Priority CPU{...} IO{...}
 ---
 
 ### Example
-
+```
 1 0 1 CPU{3,R[0],2} IO{2} CPU{2,F[0],3}
 2 1 1 CPU{2,R[0],3,F[0],2}
 3 2 2 CPU{5}
-
+```
 ---
 
 ## Notes
